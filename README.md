@@ -3,7 +3,7 @@
 For Explaining reassons i forked this repository: https://github.com/GoogleChromeLabs/svgomg-twa
 It make defenetly sense to take a look into the source repository to check for an update before you use this one!
 
-# SVGOMG / Trusted Web Activity
+## SVGOMG / Trusted Web Activity
 
 This project uses the
 [Trusted Web Activities](https://developers.google.com/web/updates/2017/10/using-twa) technology
