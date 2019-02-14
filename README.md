@@ -1,3 +1,8 @@
+# This is a fork from a Repository named svgomg-twa
+
+For Explaining reassons i forked this repository: https://github.com/GoogleChromeLabs/svgomg-twa
+It make defenetly sense to take a look into the source repository to check for an update before you use this one!
+
 # SVGOMG / Trusted Web Activity
 
 This project uses the
