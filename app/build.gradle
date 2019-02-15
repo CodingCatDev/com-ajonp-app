@@ -19,7 +19,8 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "org.chromium.twa.svgomg"
+        // Place here the package_name / applicationId as in .well-known/assetlinks.json
+        applicationId "com.companyName.appName"
         minSdkVersion 16
         targetSdkVersion 28
         versionCode 1
@@ -52,5 +53,5 @@ android {
 
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
-    implementation 'com.github.GoogleChrome:custom-tabs-client:e446d08014'
+    implementation 'com.github.GoogleChrome.custom-tabs-client:customtabs:7ab7178ae0'
 }
