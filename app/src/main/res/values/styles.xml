@@ -18,5 +18,6 @@
     <style name="Theme.TwaSplash" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowNoTitle">true</item>
         <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:statusBarColor">@color/ic_launcher_background</item>
     </style>
 </resources>
